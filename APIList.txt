@@ -1,0 +1,15 @@
+ProductController
+Get Products
+Add a Products
+get one Products
+Filter product
+Rate product
+Add items to cart
+Get items of cart
+Remove items from cart
+
+UserController
+signup-emial, name, password, TypeofUser(customer, seller)
+signin- (Email, Password)
+
+const apiDocs = JSON.parse(fs.readFileSync("./swagger.json", "utf-8"));
